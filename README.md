@@ -12,6 +12,7 @@ This app was deployed on the heroku cloud
 * Node.js
 * HTML
 * CSS
+* JavaScript
 
 ## Live Website
 
