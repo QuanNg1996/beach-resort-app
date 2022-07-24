@@ -5,8 +5,7 @@ import { Link } from 'react-router-dom';
 import Services from '../components/Services';
 import FeaturedRooms from '../components/FeaturedRooms';
 
-export default function Home() {
-return (
+const Home = () => (
   <>
     <Hero>
       <Banner
@@ -20,5 +19,8 @@ return (
     <Services />
     <FeaturedRooms />
   </>
-  );
-}
+);
+
+
+export default Home;
+
